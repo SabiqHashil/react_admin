@@ -51,35 +51,13 @@
     {
       "id": 13,
       "name": "water"
+    },
+    {
+      "id": "100",
+      "name": "noooooooooooo"
     }
   ],
   "posters": [
-    {
-      "id": 1,
-      "category_id": 2,
-      "title": "Dog in the Grass",
-      "width": 16,
-      "height": 20,
-      "price": 25,
-      "thumbnail": "https://marmelab.com/posters/animals-2.jpeg",
-      "image": "https://marmelab.com/posters/animals-2.jpeg",
-      "description": "A happy dog rolling on green grass.",
-      "stock": 10,
-      "sales": 23
-    },
-    {
-      "id": 2,
-      "category_id": 1,
-      "title": "Brown Cow",
-      "width": 32,
-      "height": 26,
-      "price": 45,
-      "thumbnail": "https://marmelab.com/posters/animals-3.jpeg",
-      "image": "https://marmelab.com/posters/animals-3.jpeg",
-      "description": "A brown cow grazing peacefully.",
-      "stock": 19,
-      "sales": 21
-    },
     {
       "id": 3,
       "category_id": 1,
@@ -133,24 +111,11 @@
       "sales": 25
     },
     {
-      "id": 8,
-      "category_id": 1,
-      "title": "Hiding Seagull",
-      "width": 29,
-      "height": 31,
-      "price": 50,
-      "thumbnail": "https://marmelab.com/posters/animals-9.jpeg",
-      "image": "https://marmelab.com/posters/animals-9.jpeg",
-      "description": "A seagull hiding among rocks.",
-      "stock": 19,
-      "sales": 18
-    },
-    {
       "id": 9,
-      "category_id": 1,
+      "category_id": 7,
       "title": "Sand Caravan",
       "width": 40,
-      "height": 26,
+      "height": 56,
       "price": 60,
       "thumbnail": "https://marmelab.com/posters/animals-10.jpeg",
       "image": "https://marmelab.com/posters/animals-10.jpeg",
@@ -690,6 +655,19 @@
       "description": "An apricot tree in full bloom.",
       "stock": 31,
       "sales": 7
+    },
+    {
+      "id": "100",
+      "category_id": 12,
+      "title": "Solo",
+      "width": 23,
+      "height": 23,
+      "price": 5000,
+      "thumbnail": "nill",
+      "image": "no",
+      "description": "hai",
+      "stock": null,
+      "sales": 12323
     }
   ]
 }
